@@ -1,0 +1,51 @@
+**General Law Concept Questions**
+How do common law and civil law systems differ in their approach to precedent and codification of laws?
+What is the role of a constitution in a legal system, and how does it influence the interpretation of other laws?
+What are the key differences between criminal law and civil law in terms of the parties involved, the standard of proof required, and the types of penalties imposed?
+How does legal precedent influence future court rulings, and what are the mechanisms for overturning a precedent?
+What are the primary sources of international law, and how do international treaties and conventions impact national legal systems?
+What are the fundamental principles of human rights law, and how do they manifest in different legal systems around the world?
+
+
+
+**General Questions**
+What types of legal cases (e.g., criminal, civil, administrative) are most prevalent in the dataset?
+How are the cases distributed over time? Is there any noticeable trend in the frequency of cases per year?
+What are the most common legal outcomes in the cases (e.g., guilty, not guilty, settlement, dismissal)?
+Which legal jurisdictions (e.g., state, federal) are most represented in the dataset?
+What types of penalties or sentences are most commonly assigned in these cases?
+Are there any notable patterns in the duration of cases from filing to resolution?
+How do the types of legal issues vary across different regions or jurisdictions in the dataset?
+Can you identify any trends in the types of plaintiffs or defendants involved in these cases?
+What is the distribution of case outcomes across different types of law (e.g., contract, criminal, property)?
+How has the legal landscape, as reflected in the dataset, evolved over the years in terms of case types, outcomes, or penalties?
+
+
+
+
+**Tailored to the Dataset**
+Identify the case with the highest fine imposed and describe its details.
+How many cases in the dataset involve insider trading?
+What is the most frequent violation of the Securities Exchange Act, according to the dataset?
+Are there any cases in the dataset that did not result in any action taken? Provide details.
+Which year in the dataset had the highest number of cases filed?
+Describe the case against "AT&T" detailed in the dataset.
+What types of crimes are associated with the largest fines, based on the dataset?
+How many cases in the dataset resulted in disgorgement as part of the fines?
+Identify any cases involving "fraud" and summarize their outcomes.
+Are there more cases of insider trading or securities fraud in the dataset?
+Detail the actions taken in the case involving "Mitchel S. Guttenberg."
+What are the common violations committed by individuals versus corporations?
+Compare the actions taken in 2010 versus 2020 as per the dataset.
+What is the average duration between the date of violation and the date of action taken?
+Are there any cases where violators were repeat offenders? Provide details.
+Describe the trends in the types of violations from 2010 to 2021.
+How does the severity of actions taken vary with the number of violations per case?
+Identify any cases involving multiple violators and describe their outcomes.
+Are there differences in the fines imposed based on the type of violator (individual vs. corporation)?
+What proportion of cases involve multiple crimes?
+Analyze the correlation between the fines imposed and the year of the case.
+Are there any cases that were resolved without monetary fines? Describe them.
+Detail the evolution of penalties for insider trading based on the dataset.
+What are the key differences in cases filed before and after 2015?
+Summarize the most notable case in the dataset and its significance in securities law enforcement.
