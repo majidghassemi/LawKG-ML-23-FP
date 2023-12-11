@@ -1,4 +1,4 @@
-# LawKG-ML-23-FP: SEC Proceedings Knowledge Graph and Question-Answering System
+# Explainable Domain Specific Large Language Models: A Law Case Study
 
 ![Final Architecture](https://github.com/majidghassemi/LawKG-ML-23-FP/blob/master/Final%20Architecture.svg)
 
